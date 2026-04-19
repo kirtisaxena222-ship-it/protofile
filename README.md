@@ -21,7 +21,7 @@ This portfolio showcases my basic projects and learning journey.
 This project is created to practice web development and showcase my progress.
 
 ##  Contact
-Email: your-email@example.com
+Email: your-kirtisaxena222@gmail.com
 
 ---
 
