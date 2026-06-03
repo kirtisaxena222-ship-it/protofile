@@ -5,7 +5,11 @@ A personal portfolio website showcasing my projects, skills, and web development
 Welcome to my personal portfolio website.
 
 ##  About Me
-I am a beginner web developer learning HTML, CSS, and JavaScript.  
+I am a beginner web developer learning HTML, CSS, and JavaScript.
+<br>
+i have learned git and github
+<br>
+i am learning dsa with c++
 This portfolio showcases my basic projects and learning journey.
 
 ##  Projects
